@@ -10,15 +10,20 @@
 
 ---
 
-## 🎥 Video Nexora Notify
+## 📸 Demostración Visual
 
-[YouTube Link](https://www.youtube.com/watch?v=xawtX6WA_CU)
+🎥 **[YouTube Link](https://www.youtube.com/watch?v=xawtX6WA_CU)**
 
 ---
 
-## 🛒 Tebex
+## 🌐 ¡Compralo ya!
 
-[Tebex](https://tienda.nexorastudio.me/)
+🛒 **[Compra en nuestra tienda Tebex aquí](https://tienda.nexorastudio.me)**
+
+### 🔥 Otros scripts destacados en nuestra Tienda:
+* 🚘 **Nexora Automotive Bundle (¡Ahorra más del 20%!)**
+* 📦 **Nexora Garage:** El sistema de garajes definitivo, optimizado y con NUI limpia.
+* 🏪 **Nexora Dealership:** Un concesionario premium avanzado para la gestión de vehículos.
 
 ---
 
@@ -116,4 +121,13 @@ Config.EnableSound = true            -- Activar/Desactivar el sonido
 Config.GroupRequired = 'admin'       -- Rango de ESX para usar los comandos /test
 ```
 
-Desarrollado con 💜 por **Nexora**.
+---
+
+## 💬 Soporte y Comunidad
+
+Si tienes problemas con la instalación, necesitas ayuda o quieres enterarte de futuros scripts gratuitos y actualizaciones, únete a nuestra comunidad:
+
+📢 **[Únete a nuestro Servidor de Discord](https://discord.gg/VqxFZdztUp)**
+
+---
+*Desarrollado con 💜 por Nexora Studio.*
