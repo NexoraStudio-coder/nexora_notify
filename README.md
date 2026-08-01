@@ -16,6 +16,12 @@
 
 ---
 
+## 🛒 Tebex
+
+[Tebex](https://tienda.nexorastudio.me/)
+
+---
+
 ## 📦 Instalación y Requisitos
 
 1. Descarga e introduce la carpeta `nexora_notify` en el directorio `resources/` de tu servidor.
