@@ -1,5 +1,4 @@
 # 🪐 Nexora Notify
----
 
 ## 🚀 Características Principales
 
